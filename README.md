@@ -49,7 +49,7 @@ The project is structured as follows:
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/Social-Media-Theme-Switcher.git
+git clone https://github.com/abhishekgurjarin/Social-Media-Theme-Switcher.git
 cd social-media-theme-switcher
 npm install
 npm start
@@ -77,4 +77,4 @@ The **Social Media Theme Switcher** is a great project to learn about handling u
 
 ### Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about building accessible and user-friendly web applications. Check out more of his work on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about building accessible and user-friendly web applications. Check out more of his work on [GitHub](https://github.com/abhishekgurjarin).
